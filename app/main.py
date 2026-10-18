@@ -26,4 +26,3 @@ def create_report(
         report_file.write(f"supply,{supply_total}\n")
         report_file.write(f"buy,{buy_total}\n")
         report_file.write(f"result,{result}\n")
-
